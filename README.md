@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Junior Data Analyst excited to put my skills in Python, SQL, Power BI, and ACL to good use! I love diving into data cleaning, management, and visualization, and there's nothing quite like creating dashboards that help turn data into meaningful insights. I'm all about supporting my team with structured analysis that drives smart business decisions. I'm really looking forward to growing in the world of data analytics and business intelligence, and I can't wait to contribute to a fun, data driven environment where we can all thrive together!
+Junior Data Analyst & aspiring DevOps Engineer. Building with Python, SQL, Power BI, Docker, and CI/CD. Passionate about turning data into insights and automating the systems that deliver them
 
 
 ## 🌐 Socials:
