@@ -1,5 +1,5 @@
 # 💫 About Me:
-Junior Data Analyst & aspiring DevOps Engineer. Building with Python, SQL, Power BI, Docker, and CI/CD. Passionate about turning data into insights and automating the systems that deliver them
+Junior Software Quality Assurance and Software Engineer. I am confidently building with Python, SQL, Power BI, Docker, and CI/CD. I am passionate about transforming data into actionable insights and adept at automating the systems that deliver them. With a strong focus on quality and efficiency, I am ready to tackle challenges and drive impactful results in my projects.
 
 ---
 ## 🌐 Socials:
