@@ -21,5 +21,4 @@ Junior Software Quality Assurance and Software Engineer. I am confidently buildi
 
 ---
 ### 🏅 Badges 
-** DevOps Capstone Project **
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="41186c0e-6e7a-4bde-92ab-40977ea8da60" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
