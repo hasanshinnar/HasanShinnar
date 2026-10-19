@@ -1,3 +1,4 @@
+<img width="1080" height="1080" alt="devops-capstone" src="https://github.com/user-attachments/assets/8b272ad3-185e-4595-ad62-28000c145ac7" />
 # 💫 About Me:
 Junior Software Quality Assurance and Software Engineer. I am confidently building with Python, SQL, Power BI, Docker, and CI/CD. I am passionate about transforming data into actionable insights and adept at automating the systems that deliver them. With a strong focus on quality and efficiency, I am ready to tackle challenges and drive impactful results in my projects.
 
@@ -21,4 +22,5 @@ Junior Software Quality Assurance and Software Engineer. I am confidently buildi
 
 ---
 ### 🏅 Badges 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="41186c0e-6e7a-4bde-92ab-40977ea8da60" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+![Uploading devops-capstone.png…]()
+
