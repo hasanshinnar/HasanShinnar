@@ -1,4 +1,3 @@
-<img width="1080" height="1080" alt="devops-capstone" src="https://github.com/user-attachments/assets/8b272ad3-185e-4595-ad62-28000c145ac7" />
 # 💫 About Me:
 Junior Software Quality Assurance and Software Engineer. I am confidently building with Python, SQL, Power BI, Docker, and CI/CD. I am passionate about transforming data into actionable insights and adept at automating the systems that deliver them. With a strong focus on quality and efficiency, I am ready to tackle challenges and drive impactful results in my projects.
 
@@ -22,5 +21,5 @@ Junior Software Quality Assurance and Software Engineer. I am confidently buildi
 
 ---
 ### 🏅 Badges 
-![Uploading devops-capstone.png…]()
-
+- IBM DevOps Capstone Project
+<img width="150" height="150" alt="devops-capstone" src="https://github.com/user-attachments/assets/8b272ad3-185e-4595-ad62-28000c145ac7" />
